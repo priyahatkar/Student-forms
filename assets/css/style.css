@@ -1,0 +1,25 @@
+body{
+    /* height: 100vh; */
+    background-image: linear-gradient(to right top, #370519, #561540, #6a3074, #6552af, #127aeb);
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+    height: 100vh;
+}
+.stdForm {
+    background: linear-gradient(#ffe6e6,#ffe6ff, #e6ecff,#ffcce6);
+    box-shadow: 1px 1px 6px 1px;
+}
+.heading {
+    font-size: 2.5rem;
+    color: #fff;
+    text-shadow: 1px 4px darkred;
+}
+.table{
+    background: linear-gradient(#ffe6e6,#ffe6ff, #e6ecff,#ffcce6);
+    box-shadow: 1px 1px 6px 1px;
+}
+.submitBtn{
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
